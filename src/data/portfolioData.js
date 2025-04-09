@@ -37,7 +37,7 @@ const portfolioData = {
         description: "Configured and maintained enterprise-level network architecture using professional Cisco equipment in university's advanced networking laboratory. Applied industry-standard security protocols across complex network configurations.",
         technologies: ["Cisco", "Enterprise Networking", "Security Protocols", "Network Configuration"],
         image: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=2000",
-        link: "#",
+        link: "https://drive.google.com/drive/folders/1e1p9ruDiSZIfUgFJDqj7hMJMuRn4MbV8?usp=drive_link",
         github: "https://github.com/Esjeyy"
       }
     ],
